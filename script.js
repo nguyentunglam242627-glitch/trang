@@ -1,3 +1,3 @@
-function showMessage(){
-  alert("Cảm ơn bạn đã quan tâm đến Bắc Giang Tour!");
+function showMessage() {
+  alert("Cảm ơn bạn đã ghé thăm Hà Giang ❤️");
 }
